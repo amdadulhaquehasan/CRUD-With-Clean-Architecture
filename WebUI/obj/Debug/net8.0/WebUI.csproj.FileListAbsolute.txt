@@ -1062,6 +1062,7 @@ D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\kfbd
 D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\3ldt96omx8-kf7yso6ghp.gz
 D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\bvm2r0otji-a821gxsx1c.gz
 D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\xlmocj8kf4-v2z7zx3mxt.gz
-D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\f1logrrgz6-7jztcrtia0.gz
-D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\r3m7mq6ssu-zlr1brlxul.gz
-D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\d1qu6qxybp-iie0gvxxie.gz
+D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\WebUI.sourcelink.json
+D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\f1logrrgz6-6rawsh1g3s.gz
+D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\r3m7mq6ssu-y9za179x2n.gz
+D:\Projects\DemoCRUDWithCleanArchitecture\WebUI\obj\Debug\net8.0\compressed\d1qu6qxybp-6zyq5mi37v.gz

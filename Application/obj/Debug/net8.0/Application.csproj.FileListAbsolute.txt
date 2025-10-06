@@ -10,3 +10,4 @@ D:\Projects\DemoCRUDWithCleanArchitecture\Application\obj\Debug\net8.0\refint\Ap
 D:\Projects\DemoCRUDWithCleanArchitecture\Application\obj\Debug\net8.0\Application.pdb
 D:\Projects\DemoCRUDWithCleanArchitecture\Application\obj\Debug\net8.0\ref\Application.dll
 D:\Projects\DemoCRUDWithCleanArchitecture\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+D:\Projects\DemoCRUDWithCleanArchitecture\Application\obj\Debug\net8.0\Application.sourcelink.json

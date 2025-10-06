@@ -12,3 +12,7 @@ D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\ref\In
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Infrastructure.runtimeconfig.json
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.csproj.AssemblyReference.cache
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.genruntimeconfig.cache
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Domain.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Domain.pdb
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date

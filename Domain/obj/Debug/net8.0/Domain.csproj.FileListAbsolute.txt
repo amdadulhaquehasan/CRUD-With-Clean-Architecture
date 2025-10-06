@@ -9,3 +9,5 @@ D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.dll
 D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\refint\Domain.dll
 D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.pdb
 D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\ref\Domain.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Projects\DemoCRUDWithCleanArchitecture\Domain\obj\Debug\net8.0\Domain.sourcelink.json
