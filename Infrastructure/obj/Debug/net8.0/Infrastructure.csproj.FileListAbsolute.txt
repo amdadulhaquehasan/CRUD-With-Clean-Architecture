@@ -16,3 +16,5 @@ D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Domain
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Domain.pdb
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastructure.sourcelink.json
 D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\obj\Debug\net8.0\Infrastr.15EFFBFE.Up2Date
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Application.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\Infrastructure\bin\Debug\net8.0\Application.pdb

@@ -126,3 +126,13 @@ D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Domain.dll
 D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Infrastructure.dll
 D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Infrastructure.pdb
 D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Domain.pdb
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Microsoft.JSInterop.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\NetcodeHub.Packages.Extensions.LocalStorage.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Application.dll
+D:\Projects\DemoCRUDWithCleanArchitecture\API\bin\Debug\net8.0\Application.pdb
