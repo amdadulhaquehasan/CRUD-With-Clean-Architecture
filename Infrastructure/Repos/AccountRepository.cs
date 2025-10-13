@@ -173,9 +173,25 @@ public class AccountRepository(
         }
     }
 
-    public Task<GeneralResponse> CreateRoleAsync(CreateRoleDTO model)
+    public async Task<GeneralResponse> CreateRoleAsync(CreateRoleDTO model)
     {
-        throw new NotImplementedException();
+        try
+        {
+            if ((await FindRoleByNameAsync(model.Name)) == null)
+            {
+                var response = await roleManager.CreateAsync(new IdentityRole(model.Name));
+                var error = CheckResponse(response);
+                if (!string.IsNullOrEmpty(error))
+                    throw new Exception(error);
+                else
+                    return new GeneralResponse(true, $"{model.Name} created");
+            }
+            return new GeneralResponse(false, $"{model.Name} already created");
+        }
+        catch (Exception ex)
+        {
+            throw new Exception(ex.Message);
+        }
     }
 
     public async Task<IEnumerable<GetRoleDTO>> GetRolesAsync()
