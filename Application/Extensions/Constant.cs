@@ -9,9 +9,9 @@ public static class Constant
     public const string CreateRoleRoute = "api/account/identity/role/create";
     public const string CreateAdminRoute = "setting";
     public const string BrowserStorageKey = "x-key";
-    public const string HttpClientName = "MebUIClient";
+    public const string HttpClientName = "WebUIClient";
     public const string HttpClientHeaderScheme = "Bearer";
-    public const string AuthenticationType = "JetAuth";
+    public const string AuthenticationType = "JwtAuth";
     public const string GetUserWithRolesRoute = "api/account/identity/users-with-roles";
     public const string ChangeUserRoleRoute = "api/account/identity/change-role";
     public static class Role
