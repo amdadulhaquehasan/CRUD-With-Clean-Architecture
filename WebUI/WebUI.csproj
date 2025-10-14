@@ -16,4 +16,8 @@
         <PackageReference Include="NetcodeHub.Packages.Components.Validations" Version="1.0.1" />
     </ItemGroup>
 
+    <ItemGroup>
+      <ProjectReference Include="..\Application\Application.csproj" />
+    </ItemGroup>
+
 </Project>
