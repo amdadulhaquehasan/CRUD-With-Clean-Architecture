@@ -28,16 +28,28 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Layout/Account/Identity/AuthenticationLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XEFjY291bnRcSWRlbnRpdHlcQXV0aGVudGljYXRpb25MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Account/Identity/AuthenticationPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxJZGVudGl0eVxBdXRoZW50aWNhdGlvblBhZ2UucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Account/Identity/LoginPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxJZGVudGl0eVxMb2dpblBhZ2UucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Account/Identity/LogoutPage.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxJZGVudGl0eVxMb2dvdXRQYWdlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Account/Identity/RedirectToLogin.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudFxJZGVudGl0eVxSZWRpcmVjdFRvTG9naW4ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/Pages/Content/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGVudFxIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Projects/DemoCRUDWithCleanArchitecture/WebUI/_Imports.razor]
