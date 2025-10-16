@@ -1,5 +1,5 @@
-﻿@page "/"
-
+﻿@page "/content/home"
+@attribute [Authorize(Roles = "Admin,user")]
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
