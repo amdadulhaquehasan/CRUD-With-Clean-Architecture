@@ -20,7 +20,7 @@ public static class ServiceContainer
         services.AddCascadingAuthenticationState();
         services.AddHttpClient("WebUIClient", client =>
         {
-            client.BaseAddress = new Uri("https://localhost:7053");
+            client.BaseAddress = new Uri("https://localhost:7258");
         }).AddHttpMessageHandler<CustomHttpHandler>();
         return services;
     }
